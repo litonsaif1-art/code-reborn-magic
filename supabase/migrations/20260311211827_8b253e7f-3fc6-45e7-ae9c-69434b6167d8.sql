@@ -1,1 +1,0 @@
-ALTER TABLE public.blueprint_history ADD COLUMN pinned boolean NOT NULL DEFAULT false;

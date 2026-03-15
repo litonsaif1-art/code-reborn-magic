@@ -1,1 +1,0 @@
-ALTER TABLE public.blueprint_history ADD COLUMN IF NOT EXISTS concept_count integer DEFAULT 0;

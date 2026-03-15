@@ -1,1 +1,0 @@
-ALTER TABLE public.chat_sessions ADD COLUMN IF NOT EXISTS pinned BOOLEAN DEFAULT false;
